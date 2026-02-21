@@ -1,0 +1,17 @@
+2026-02-21 11:56:18,340 - INFO - Job started
+2026-02-21 11:56:18,349 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 11:56:18,353 - ERROR - Job failed: Missing required column: close
+2026-02-21 12:26:21,839 - INFO - Job started
+2026-02-21 12:26:21,839 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 12:26:21,867 - INFO - Data loaded: 44640 rows
+2026-02-21 12:26:21,870 - INFO - Rolling mean calculated with window=5
+2026-02-21 12:26:21,871 - INFO - Signals generated
+2026-02-21 12:26:21,871 - INFO - Metrics: signal_rate=0.5006, rows_processed=44640
+2026-02-21 12:26:21,872 - INFO - Job completed successfully in 32ms
+2026-02-21 13:08:54,826 - INFO - Job started
+2026-02-21 13:08:54,842 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 13:08:54,886 - INFO - Data loaded: 44640 rows
+2026-02-21 13:08:54,889 - INFO - Rolling mean calculated with window=5
+2026-02-21 13:08:54,890 - INFO - Signals generated
+2026-02-21 13:08:54,890 - INFO - Metrics: signal_rate=0.5006, rows_processed=44640
+2026-02-21 13:08:54,890 - INFO - Job completed successfully in 63ms
